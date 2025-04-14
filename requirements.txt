@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-whisper
-torch
-deep_translator
+openai-whisper
+ffmpeg-python
+deep-translator
